@@ -1,4 +1,1 @@
-
-const user = "ivan";
-user[0] = "John";
-alert(user);
+console.log(5+5);
